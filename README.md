@@ -13,4 +13,14 @@ A simple Java-based student management system with a graphical user interface (G
 - JDBC Driver for MySQL
 
 ## Database
-# Database name : student_db
+### Database Name : student_db
+### Table Name : student
+### Columns : 
+- id (set to auto_increment)
+- name
+- address
+- email
+- ph_no
+- department
+- username
+- password
