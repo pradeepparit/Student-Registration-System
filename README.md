@@ -11,3 +11,6 @@ A simple Java-based student management system with a graphical user interface (G
 - Java Development Kit (JDK)
 - MySQL Database
 - JDBC Driver for MySQL
+
+## Database
+# Database name : student_db
